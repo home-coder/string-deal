@@ -10,3 +10,5 @@
 
 C 语言的字符串处理函数
 http://www.cplusplus.com/reference/cstring/
+
+sscanf, sprintf, strcpy, strstr, strcat, isalpha...
